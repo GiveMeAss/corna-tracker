@@ -39,7 +39,7 @@ function App() {
     return (
       <Card
         key={i}
-        bg="light"
+        bg="secondary"
         text="dark"
         className="text-center"
         style={{ margin: "10px" }}
